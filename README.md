@@ -4,5 +4,45 @@
 
 **온라인 상거래 및 쇼핑의 증가**와 더불어 기존의 **오프라인 지출의 감소** 에 주목하여 기존 오프라인 판매 위주였던 마트의 온라인 시장 진출을 목표로 하였습니다.
 
-![p1](https://user-images.githubusercontent.com/95206325/150680588-22c78b80-3614-4029-b0f9-2e6e61d2e788.png){: width="100" height="100"}
-![p2](https://user-images.githubusercontent.com/95206325/150680598-6b576f5a-cc8f-413e-9b60-e19f79a6aaf2.png){: width="100" height="100"}
+
+<img  src="https://user-images.githubusercontent.com/95206325/150680827-03186cb1-b4a1-471a-9536-12bce13be975.jpg"  width="400"  height="200" >
+
+
+ 처음 해보는 개발 프로젝트로  많은 시행착오가 있었습니다.
+
+그 중 가장 어려웠던 것은 **개발에 대한 지식이 부족**하여 기능상으로는 가능했지만 실제로 구현하는 것이 어려웠습니다.
+ 여러 차례 회의를 거치고  **협업**을 통해 조언을 얻고 매일 정기회의를 통해 **진행상황 공유** 와  **상황에 따른 수정과 변동**을 결정하였습니다.
+ 
+- **역할**
+> 기획, 설계, 소스코드 작성에 대한 전반적인 참여
+> 화면설계 ppt 템플릿 제작, 발표 ppt 제작
+
+- **기획**
+	> 분담하여 하는 팀프로젝트 특성상 수 차례 회의를 하고 결정하여도 기획에 대한 이해도는 개인별로 차이가 있을 수 있습니다. 
+	> 이를 대비하여 구현목표는 자세히 쓰려 노력했습니다.
+	
+	![image](https://user-images.githubusercontent.com/95206325/150681257-5debce97-4e72-476f-af06-108fab5ac6ca.png)
+
+	
+	
+
+
+-   **요구분석** 
+	>  기존 기획서를 바탕으로 하되 기능별로 상세히 작동 방식을 설명하려 하였습니다.
+
+![image](https://user-images.githubusercontent.com/95206325/150681417-8a8d9ba6-26b2-40e2-977a-4a987d07b2ce.png)
+
+## 기능설계
+![순서도](https://user-images.githubusercontent.com/95206325/150681881-727c9360-6da7-4907-b5bc-30134faed1bd.jpg)
+
+
+
+## 화면설계
+
+화면설계는 **java 콘솔창**과 동일하게 창을 만들어 어떤 방식으로 **출력**될지, 발표 때는 어떤 방식으로 화면을 세팅할지 미리 **결정**해두고 작업을 진행하였습니다. 
+
+![image](https://user-images.githubusercontent.com/95206325/150681537-7613bc7e-b5be-4bbe-8634-ad98e478caf8.png)
+
+* 사용한 아스키코드의 출처를 표기하여 팀원들간의 소통을 원활하게 하였습니다.
+
+![image](https://user-images.githubusercontent.com/95206325/150681610-669921f1-3b7a-493c-a814-cce013f80c89.png)
